@@ -1,0 +1,6 @@
+{
+  "name": "Echo AI",
+  "description": "An intelligent AI assistant and creative design companion for answers, copywriting, visual asset concepts, and image generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
